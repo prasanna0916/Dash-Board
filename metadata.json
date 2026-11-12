@@ -1,0 +1,6 @@
+{
+  "name": "Streamlit Data Science Insights Dashboard",
+  "description": "An interactive Streamlit-powered data science dashboard analyzing customer churn, key business drivers, exploratory visualizations, and real-time predictive modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
